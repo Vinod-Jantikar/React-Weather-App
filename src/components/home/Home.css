@@ -1,0 +1,27 @@
+.home_div {
+  width: 50%;
+  border: 1px solid black;
+  margin: 50px auto;
+  background-color: #0B2447;
+  background-size: cover;
+  padding-bottom: 100px;
+}
+.form_box_input {
+  width: 60%;
+  padding: 6px;
+  margin-right: 10px;
+  border-radius: 5px;
+  border: none;
+  outline: none;
+}
+
+.form_box_btn {
+  padding: 6px;
+  width: 120px;
+  text-transform: capitalize;
+  font-size: 15px;
+  background-color: #0B2447;
+  color: #beedff;
+  border: 1px solid white;
+  border-radius: 5px;
+}

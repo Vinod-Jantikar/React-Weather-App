@@ -1,0 +1,19 @@
+.weather_card {
+  width: 80%;
+  margin: 100px auto;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.weather_icon_box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+.temperature_heading {
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  padding: 10px 30px;
+  display: flex;
+  align-items: center;
+}
